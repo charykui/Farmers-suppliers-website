@@ -68,7 +68,7 @@ if (isset($_POST['login']) )
 //Unsuccessful
     echo" Unsuccessful";
         header('location:loginform.php');
-//end ofline
+//final script
         
         //exit();
         }
